@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: none;
+    color: inherit;
+}
+body{
+    background: #0e0e0e;
+    height: 100vh;
+    color: white;
+    padding: 20px;
+    font-size: 1.5rem;
+}
+
+.big{
+    font-weight: 800;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.cusourClass{
+    animation: cusourClass 1s 0s infinite ease-in;
+}
+@keyframes cusourClass {
+    50%{
+        opacity: 0;
+    }
+}
+
+
+
+.orange{
+    color: orange;
+}
