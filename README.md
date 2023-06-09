@@ -1,6 +1,6 @@
 # Hype Typewriter 🎉😎
 
-Typist is a JavaScript class that provides a typewriter effect. It simulates the typing and deleting of text, creating a typewriter-like animation. This can be useful for adding an engaging and interactive element to your web pages.
+Hype Typewriter is a JavaScript class that provides a typewriter effect. It simulates the typing and deleting of text, creating a typewriter-like animation. This can be useful for adding an engaging and interactive element to your web pages.
 
 ## Usage
 
